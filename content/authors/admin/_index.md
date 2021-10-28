@@ -41,7 +41,7 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/in/tom-truyts-5b5597137
 superuser: true
-title: Tom Truyts
+title: Tung Nhi Tran
 ---
 
 Tom Truyts is a professor of public economics at the <a href="https://www.usaintlouis.be">Université Saint-Louis - Bruxelles</a>.  His research interests include public finance, microsimulation modelling, transport and environmental economics, fiscal federalism and data science. His former research was focussing on game theory, auction theory and economic history. 
