@@ -4,8 +4,8 @@ theme: "starter-hugo-academic"
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Homepage Tom Truyts # Website name
-baseurl: 'https://tomtruyts.netlify.app' # Website URL
+title: Homepage Tung Nhi Tran # Website name
+baseurl: 'https://trusting-kowalevski-2de1e7.netlify.app/' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################
