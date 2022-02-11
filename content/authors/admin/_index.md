@@ -33,8 +33,8 @@ superuser: true
 title: Tung Nhi Tran
 ---
 
-Tom Truyts is a professor of public economics at the <a href="https://www.usaintlouis.be">Université Saint-Louis - Bruxelles</a>.  His research interests include public finance, microsimulation modelling, transport and environmental economics, fiscal federalism and data science. His former research was focussing on game theory, auction theory and economic history. 
-Tom Truyts coordinates the Beamm project, an effort to build an online open-acces comprehensive tax-benefit microsimulation model for Belgium. 
+Tung Nhi Tran is a research assistant at the <a href="https://www.usaintlouis.be">Université Saint-Louis - Bruxelles</a>.  Her research interests include anomaly detection, explainable machine learning. 
+She is a member of the Beamm project, an effort to build an online open-acces comprehensive tax-benefit microsimulation model for Belgium. 
 
 Tom Truyts is the director (together with Gilles Grandjean) of the Center for Applied Public Economics (<a href="https://capeusaintlouis.com">CAPE</a>), co-director of the Institut de Recherches interdisciplinaires sur Bruxelles (<a href="https://irib.be">IRIB</a>) and a member of the Center for Research in Economics (<a href="https://cerec.be">CEREC</a>), all at the <a href="https://www.usaintlouis.be">Université Saint-Louis - Bruxelles</a>.
 
