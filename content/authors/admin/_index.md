@@ -1,30 +1,20 @@
 ---
 education:
   courses:
-  - course: PhD in Economics
-    institution: KU Leuven
-    year: 2008
-  - course: MSc in Economics
-    institution: KU Leuven
-    year: 2003
   - course: Master in Economics (licentiaat)
     institution: KU Leuven
     year: 2002
   - course: Master in History (licentiaat)
     institution: KU Leuven
     year: 1999
-email: tom.truyts@usaintlouis.be
+email: tungnhitranbk@gmail.com
 highlight_name: true
 interests:
-- Public finance
+- Machine Learning  
 - Microsimulation modelling
 - Data science
-- Transport, environment, social inequality, fiscal federalism
-- I used to work on game theory, auction theory, economic history
-organizations:
-- name: Université Saint-Louis - Bruxelles
-  url: http://www.usaintlouis.be/
-role: Professor of Public Economics
+
+role: Researcher
 social:
 - icon: envelope
   icon_pack: fas
@@ -33,13 +23,12 @@ social:
     header: true
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=uSMCpcwAAAAJ
-- icon: github
+  link: - icon: github
   icon_pack: fab
-  link: https://github.com/tomtruyts
+  link: https://github.com/tungnhitran
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/tom-truyts-5b5597137
+  link: https://www.linkedin.com/in/tung-nhi-tran/
 superuser: true
 title: Tung Nhi Tran
 ---
