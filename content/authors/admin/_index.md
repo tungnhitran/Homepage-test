@@ -23,7 +23,7 @@ social:
     header: true
 - icon: graduation-cap
   icon_pack: fas
-  link: - icon: github
+- icon: github
   icon_pack: fab
   link: https://github.com/tungnhitran
 - icon: linkedin
@@ -36,5 +36,5 @@ title: Tung Nhi Tran
 Tung Nhi Tran is a research assistant at the <a href="https://www.usaintlouis.be">Université Saint-Louis - Bruxelles</a>.  Her research interests include anomaly detection, explainable machine learning. 
 She is a member of the Beamm project, an effort to build an online open-acces comprehensive tax-benefit microsimulation model for Belgium. 
 
-#Tom Truyts is the director (together with Gilles Grandjean) of the Center for Applied Public Economics (<a href="https://capeusaintlouis.com">CAPE</a>), co-director of the Institut de Recherches interdisciplinaires sur Bruxelles (<a href="https://irib.be">IRIB</a>) and a member of the Center for Research in Economics (<a href="https://cerec.be">CEREC</a>), all at the <a href="https://www.usaintlouis.be">Université Saint-Louis - Bruxelles</a>.
+Tom Truyts is the director (together with Gilles Grandjean) of the Center for Applied Public Economics (<a href="https://capeusaintlouis.com">CAPE</a>), co-director of the Institut de Recherches interdisciplinaires sur Bruxelles (<a href="https://irib.be">IRIB</a>) and a member of the Center for Research in Economics (<a href="https://cerec.be">CEREC</a>), all at the <a href="https://www.usaintlouis.be">Université Saint-Louis - Bruxelles</a>.
 
